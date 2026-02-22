@@ -1,1 +1,3 @@
-# jupyter-exploration
+## Lab Overview: Intro to Jupyter and GitHub
+
+This lab serves as a foundational introduction to version control and interactive computing by integrating **GitHub** and **Jupyter Notebooks**. The project involved setting up a remote repository, mastering the basics of the GitHub web interface, and utilizing **GitHub Desktop** for seamless local-to-remote synchronization. On the computational side, the lab explored the dual-functionality of Jupyter Notebooks - combining executable **Python code** with formatted **Markdown cells** - to create documented, reproducible workflows. Whether executed through local installations like VS Code or cloud-based environments like Google Colab, this session emphasized the practical application of cloning, committing, and pushing changes to maintain a clean and professional development history.
